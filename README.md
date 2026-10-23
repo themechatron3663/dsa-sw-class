@@ -1,3 +1,4 @@
+CODE 1 (practice.js)
 Data Structures 
 Arrays, Hash Tables and Linked Lists
 
@@ -9,3 +10,19 @@ instead of listing from item 1 to item 1oo and outputting in the same way,
 Applying either arrays, hash tables or linked list does the job.
 
 Also special functions like variables.push, variables.length and so on
+
+CODE 2 (growth.js)
+How work grows as data Grows
+The BIg O Notation: Here we apply the four "Growth Patterns" namely
+
+1. O(1)
+2. O(log n)
+3. O(n)
+4. O(N^2)
+
+Given that n is the input size, Bigger n usually means more work, however the question is how much more?
+Hence Big O describes the shape of the growth, not anexact niumber.
+
+
+
+
