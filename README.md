@@ -15,13 +15,13 @@ CODE 2 (growth.js)
 How work grows as data Grows
 The BIg O Notation: Here we apply the four "Growth Patterns" namely
 
-1. O(1)
-2. O(log n)
-3. O(n)
-4. O(N^2)
+1. O(1)          ----  Constant       --------  Stays the Same`
+2. O(log n)      ----- Logarithmic    -------   One Extra Step
+3. O(n)          ----- Linear         -------   Doubles
+4. O(N^2)        ------ Quadratic      ------    Quadruples
 
 Given that n is the input size, Bigger n usually means more work, however the question is how much more?
-Hence Big O describes the shape of the growth, not anexact niumber.
+Hence Big O describes the shape of the growth, not an exact niumber.
 
 
 
